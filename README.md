@@ -1,3 +1,5 @@
-## Birthday App
+# Birthday App
 
-Wish your friends a happy birthday. 
+* This is a basic app to wish your friends and family members specially and specially.
+
+* Built using [Android Studio](https://developer.android.com/studio/)
